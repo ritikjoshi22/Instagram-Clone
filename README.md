@@ -45,7 +45,7 @@ This project demonstrates a simple yet powerful implementation of core social fe
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/instapound.git
+git clone https://github.com/ritikjoshi22/instapound.git
 ```
 2. **Navigate to the project folder** 
 ```bash
