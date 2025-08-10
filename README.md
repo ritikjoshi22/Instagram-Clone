@@ -31,13 +31,13 @@ This project demonstrates a simple yet powerful implementation of core social fe
 > You can add screenshots of the profile page, post feed, and any other important features.
 
 ### User Profile  
-![User Profile Screenshot](path/to/your-profile-screenshot.png)
+(screenshots/profile.png)
 
 ### Post Feed  
-![Post Feed Screenshot](path/to/your-post-feed-screenshot.png)
+(screenshots/feed.png\)
 
 ### Comments and Likes  
-![Comments and Likes Screenshot](path/to/your-comments-likes-screenshot.png)
+(screenshots/like&comment.png)
 
 ---
 
