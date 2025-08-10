@@ -30,13 +30,13 @@ class CommentController extends Controller
 
     public function destroy(Comment $comment)
     {
-        if (auth()-id() !== $comment->user_id && auth()->id() !== $comment->post->user_id) {
+        if (auth()->id() !== $comment->user_id && auth()->id() !== $comment->post->user_id) {
             abort(403, 'Unauthorized action.');
         }
 
         $postId = $comment->post_id;
         $comment->delete();
 
-        return redirect("/posts/" , $postId);
+        return redirect("/posts/" . $postId);
     }
 }

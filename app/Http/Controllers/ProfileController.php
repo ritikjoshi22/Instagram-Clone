@@ -16,7 +16,7 @@ class ProfileController extends Controller
 
     public function edit(User $user)
     {
-        if (auth()->id !== $user->id) {
+        if (auth()->id() !== $user->id) {
             abort(403, 'Unauthorized action.');
         }
 
