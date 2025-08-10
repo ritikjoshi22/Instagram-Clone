@@ -34,7 +34,7 @@ This project demonstrates a simple yet powerful implementation of core social fe
 ![User Profile Screenshot](screenshots/profile.png)
 
 ### Post Feed  
-![Post Feed Screenshot](screenshots/feed.png\)
+![Post Feed Screenshot](screenshots/feed.png)
 
 ### Comments and Likes  
 ![Comments and Likes Screenshot](screenshots/like&comment.png)
